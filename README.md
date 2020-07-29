@@ -1,2 +1,2 @@
  
-SUBMODULE COMMIT FOR spring cloud congif server
+SUBMODULE COMMIT FOR spring cloud config server
